@@ -24,7 +24,7 @@ public class MenuManager : MonoBehaviour
     }
 
     public void StartGame() {
-        SceneManager.LoadScene("game");
+        SceneManager.LoadScene("filip-game");
     }
     
     public void QuitGame() {
