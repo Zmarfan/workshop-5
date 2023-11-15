@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/menu.unity
+    path: Assets/Filip/Scenes/menu.unity
     guid: 61e47271d6a591c47bb78b727725a772
   - enabled: 1
-    path: Assets/Scenes/game.unity
+    path: Assets/Filip/Scenes/game.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Axel/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Axel/Scenes/Game.unity
+    guid: 94211c4b12dfce8418af82562a2c3dee
   m_configObjects: {}
